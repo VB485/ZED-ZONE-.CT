@@ -1,0 +1,2 @@
+隔离区-丧尸末日生存 ZED ZONE简单的CT表。
+目前就CharacterData InventoryData itemdata CharacterStatusData基本满足我用了，其他的需要的时候慢慢做，有几个地址自己改下偏移就行，我主要用的还是锁背包XY和锁totalItemWeight 0
